@@ -1,5 +1,5 @@
 
-##Principe
+# Principe
 - Prioriser la satisfaction du client
 - Accepter les changements
 - Livrer en permanence des versions opérationnelles de l’application
@@ -15,16 +15,16 @@
 
 
 
-##Outils
-(orga)
+# Outils
+## (orga)
 - jira 
 - git (hub/lab)
 - trello
 
-(brainsto/ roadmap)
+## (brainsto/ roadmap)
 - miro
 
-(com interne)
+## (com interne)
 - slack 
 - teams 
 - mattermost
