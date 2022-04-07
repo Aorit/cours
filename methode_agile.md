@@ -1,5 +1,5 @@
 
-#Principe
+##Principe
 - Prioriser la satisfaction du client
 - Accepter les changements
 - Livrer en permanence des versions opérationnelles de l’application
@@ -15,7 +15,7 @@
 
 
 
-#Outils
+##Outils
 (orga)
 - jira 
 - git (hub/lab)
